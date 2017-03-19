@@ -13,7 +13,7 @@ The tutorial only goes through Shadowmask mode. Baked Indirect and Subtractive m
 
 Tutorial can be found [here](http://kemalakay.com/?page_id=16)
 
-![](https://github.com/kemalakay/shadowmask/blob/master/Images/01.jpg)
+![](https://github.com/kemalakay/shadowmask/blob/master/Images/03.jpg)
 
 ### What is Shadowmask?
 
