@@ -1,13 +1,15 @@
 # Shadowmask Tutorial
 Demonstrating how new Shadowmask feature works in Unity 
 
-### Light Modes tutorial: Shadowmask
+### Light Modes Tutorial: Shadowmask
 
 This project includes the tutorial files for Shadowmask tutorial. In Unity 5.6, new light modes are introduced for blending baked and realtime shadows. This modes include Baked Indirect, Distance Shadowmask, Shadowmask and Subtractive. This tutorial goes through the details of authoring a scene for switching between Distance Shadowmask and Shadowmask modes.
 
-In Unity 2017.1, Shadowmask option is moved to Quality Settings so users can change the mode at runtime. This tutorial explains how to change the mode through API as well as setting up light probes, reflection probes, lighting parameters, lighting settings and light types. These concepts can be applied to a realistic use case.
+In Unity 2017.1, Shadowmask option is moved to Quality Settings so users can change the mode at runtime. This tutorial explains how to change the mode through API as well as setting up light probes, reflection probes, lighting parameters, lighting settings and light types. These concepts can be applied to a realistic use case and this is essentially what the tutorial covers by using baked shadowmasks for in-door (while retaining shadowmaps of playable character) and shadowmaps for outdoor (including the static objects).
 
 The project includes two scenes. The first one provides the basic version of the scene without any lighting setup. Scene (assets, props, particles, animated character) is prepared and the tutorial explains step by step how to author the lighting and post-processing. Second scene shows the completed version of the tutorial.
+
+The tutorial only goes through Shadowmask mode. Baked Indirect and Subtractive modes are not covered in this tutorial.
 
 Tutorial can be found [here](http://kemalakay.com/?page_id=16)
 
