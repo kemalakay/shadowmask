@@ -1,4 +1,4 @@
-# Shadowmask
+# Shadowmask Tutorial
 Demonstrating how new Shadowmask feature works in Unity 
 
 ### Light Modes tutorial: Shadowmask
@@ -11,7 +11,7 @@ The project includes two scenes. The first one provides the basic version of the
 
 Tutorial can be found [here](http://kemalakay.com/?page_id=16)
 
-![](Images/02.jpeg)
+![](https://github.com/kemalakay/shadowmask/blob/master/Images/02.jpg)
 
 ### What is Shadowmask?
 
@@ -19,9 +19,9 @@ Tutorial can be found [here](http://kemalakay.com/?page_id=16)
 
  Unlike subtractive mode, shadowmask feature allows users to blend between baked and realtime shadows with all mixed light types (directional, point and spotlight). In old versions of Unity, this was the main constraint. It was only possible to use one mixed directional light to avoid double shadowing and overbrightness.
 
-![](Images/01.jpeg)
+![](https://github.com/kemalakay/shadowmask/blob/master/Images/01.jpg)
 
 ### Credits
-[Keijiro Takahashi](https://github.com/keijiro) for sIBL HDR cubemap, camera and movement scripts
-[ThreeDScans](http://threedscans.com/) for 3D sculpture of Plato
-R&D Content Team at Unity for Standard Assets
+* [Keijiro Takahashi](https://github.com/keijiro) for sIBL HDR cubemap, camera and movement scripts
+* [ThreeDScans](http://threedscans.com/) for 3D sculpture of Plato
+* R&D Content Team at Unity for Standard Assets
