@@ -11,7 +11,7 @@ The project includes two scenes. The first one provides the basic version of the
 
 Tutorial can be found [here](http://kemalakay.com/?page_id=16)
 
-![](https://github.com/kemalakay/shadowmask/blob/master/Images/02.jpg =800x577)
+![](https://github.com/kemalakay/shadowmask/blob/master/Images/02.jpg =650x469)
 
 ### What is Shadowmask?
 
