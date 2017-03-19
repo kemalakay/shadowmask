@@ -11,15 +11,13 @@ The project includes two scenes. The first one provides the basic version of the
 
 Tutorial can be found [here](http://kemalakay.com/?page_id=16)
 
-![](https://github.com/kemalakay/shadowmask/blob/master/Images/02.jpg =650x469)
+![](https://github.com/kemalakay/shadowmask/blob/master/Images/01.jpg)
 
 ### What is Shadowmask?
 
  In Shadowmask mode, static objects receive shadows from other static objects via the precomputed Shadowmask texture, regardless of the shadow distance. In Distance Shadowmask mode, both dynamic and static objects are using realtime shadows within the shadow distance. That is the reason why drawcall amount is higher in Distance Shadowmask. Beyond the shadow distance, static objects receive high quality shadows from other static objects via the precomputed Shadowmask.
 
  Unlike subtractive mode, shadowmask feature allows users to blend between baked and realtime shadows with all mixed light types (directional, point and spotlight). In old versions of Unity, this was the main constraint. It was only possible to use one mixed directional light to avoid double shadowing and overbrightness.
-
-![](https://github.com/kemalakay/shadowmask/blob/master/Images/01.jpg)
 
 ### Credits
 * [Keijiro Takahashi](https://github.com/keijiro) for sIBL HDR cubemap, camera and movement scripts
