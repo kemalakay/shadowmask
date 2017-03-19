@@ -24,4 +24,4 @@ Tutorial can be found [here](http://kemalakay.com/?page_id=16)
 ### Credits
 * [Keijiro Takahashi](https://github.com/keijiro) for sIBL HDR cubemap, camera and movement scripts
 * [ThreeDScans](http://threedscans.com/) for 3D sculpture of Plato
-* R&D Content Team at Unity for Standard Assets
+* R&D Content Team at Unity for Standard Assets and Labs Scene
